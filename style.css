@@ -1,0 +1,11 @@
+.navbar-toggler {
+    box-shadow: none !important;
+    outline: none !important;
+  }
+
+  #feedimg {
+    width: 15em;
+    height: 15em;
+    object-fit: cover;
+    border-radius: 1em;
+  }
