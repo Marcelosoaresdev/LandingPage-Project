@@ -78,3 +78,9 @@
   body{
     margin-top: 48px;
   }
+
+  @media (max-width: 767px) {
+    #cardmeio{
+        margin: 1em 0 1em 0;
+    }
+    }
