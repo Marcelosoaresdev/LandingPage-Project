@@ -72,7 +72,6 @@
   #navegation .nav-item a.active{
     background-color: rgb(76, 135, 197);
     color: white;
-    border-radius: 10px;
   }
 
   body{
