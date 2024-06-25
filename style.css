@@ -83,3 +83,9 @@
         margin: 1em 0 1em 0;
     }
     }
+
+  @media (max-width: 1023px) {
+    #feedbacks #feedimg {
+      max-width: 100%;
+    }
+  }
